@@ -188,9 +188,15 @@ echo $colrs;
 <h3 class="xmplh">This is an example THIRD LEVEL HEADING</h3>
 <br>
 <p class="xmplp mx-3">This is an example of the paragraph text font being used in paragraph text. It's a short and saucy paragraph that has no existential meaning. Or does it?<br><br>This is an <b><i>example</i></b> of the paragraph text font being used with <b>Boldface</b> and <i>italics</i> in paragraph text. It's a short and saucy paragraph that has existential meaning because of the <i>text embellishments</i>. Or does it?</p></div>
-<br><input type="submit" value="Apply">
-</form><br>
+<br><input type="submit" value="Save the selected choices to the PHP SESSION"><br>
+<div class="d-flex col-sm-10 flex-column align-items-center shadow-md #b0bec5 blue-grey lighten-4 px-sm-0 infoBox">
+<h2><a href="./dumpFontsSaverSESSIONvariables.php" title="Display the Font Chooser's saved SESSION variables.">Display the saved SESSION variables.</a></h2></div><br>
+<div class="d-flex col-sm-10 flex-column align-items-center shadow-md #b0bec5 blue-grey lighten-4 px-sm-0 infoBox">
+<h2><a href="https://github.com/Bob-Wright/Font-Chooser-Menu" title="github repo">Get the code on github.</a></h2>
+</div><br></form><br>
 </div>
+<br>
+
 	<footer class="d-flex col-sm-12 flex-column align-items-center shadow-md #b0bec5 blue-grey lighten-3 px-sm-0 infoBox" style="margin-left:0;" id="ComicFooter">
 	<nav id="ComicFooter"><p><a id="prevpagebutton" href="./FontsChooser.php" title="return to the fonts chooser">❮ Previous</a>&nbsp;&copy; 2021 by&nbsp;<span><svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="40px" height="40px" viewBox="0 0 40.000000 40.000000" preserveAspectRatio="xMidYMid meet">
 	<g transform="translate(0.000000,40.000000) scale(0.100000,-0.100000)"

@@ -55,7 +55,7 @@ if (($_SERVER["REQUEST_METHOD"] == "POST") && (isset($_POST['hfontinfo'])) && ($
 	if($return !== false) {
 		$wroteNewConfig = 'Wrote a new Config File ' . $Comicname . '<br>'; }
 	}
-	header("Refresh: 10; URL=./FontsChooser.php");
+	header("Refresh: 4; URL=./FontsChooser.php");
 	echo "Saved the font and background color choices<br/>
 	as SESSION variables. Returning to Chooser.<br/>";
 }
