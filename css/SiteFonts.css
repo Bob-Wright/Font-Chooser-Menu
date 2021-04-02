@@ -1,0 +1,74 @@
+/* =============== */
+/* ComicFonts.css */
+@font-face {
+	font-family: "Merriweather";
+	src: url("/Galleries/Fonts/Merriweather-Regular.ttf") format("truetype");
+  }
+@font-face {
+	font-family: "MerriweatherBlack";
+	src: url("/Galleries/Fonts/Merriweather-Black.ttf") format("truetype");
+  }
+@font-face {
+	font-family: "RobotoSlab";
+	src: url("/Galleries/Fonts/RobotoSlab-Regular.ttf") format("truetype");
+  }
+@font-face {
+	font-family: "RobotoSlabBold";
+	src: url("/Galleries/Fonts/RobotoSlab-Bold.ttf") format("truetype");
+  }
+@font-face {
+	font-family: "Roboto";
+	src: url("/Galleries/Fonts/Roboto-Regular.ttf") format("truetype");
+  }
+@font-face {
+	font-family: "RobotoMedium";
+	src: url("/Galleries/Fonts/Roboto-Medium.ttf") format("truetype");
+  }
+@font-face {
+	font-family: "RobotoBold";
+	src: url("/Galleries/Fonts/Roboto-Bold.ttf") format("truetype");
+  }
+@font-face {
+	font-family: "NotoSans";
+	src: url("/Galleries/Fonts/NotoSans-Regular.ttf") format("truetype");
+  }
+@font-face {
+	font-family: "NotoSansBold";
+	src: url("/Galleries/Fonts/NotoSans-Bold.ttf") format("truetype");
+  }
+@font-face {
+	font-family: "NotoSerif";
+	src: url("/Galleries/Fonts/NotoSerif-Regular.ttf") format("truetype");
+  }
+@font-face {
+	font-family: "NotoSerifBold";
+	src: url("/Galleries/Fonts/NotoSerif-Bold.ttf") format("truetype");
+  }
+@font-face {
+	font-family: "Montserrat";
+	src: url("/Galleries/Fonts/Montserrat-Regular.ttf") format("truetype");
+  }
+@font-face {
+	font-family: "MontserratBold";
+	src: url("/Galleries/Fonts/Montserrat-Bold.ttf") format("truetype");
+  }
+@font-face {
+	font-family: "Oxygen";
+	src: url("/Galleries/Fonts/Oxygen-Regular.ttf") format("truetype");
+  }
+@font-face {
+	font-family: "OxygenBold";
+	src: url("/Galleries/Fonts/Oxygen-Bold.ttf") format("truetype");
+  }
+@font-face {
+	font-family: "CabinBold";
+	src: url("/Galleries/Fonts/CabinSemiBold.ttf") format("truetype");
+  }
+@font-face {
+	font-family: "CantoraOne";
+	src: url("/Galleries/Fonts/CantoraOne-Regular.ttf") format("truetype");
+  }
+@font-face {
+	font-family: "CutiveMono";
+	src: url("/Galleries/Fonts/CutiveMono-Regular.ttf") format("truetype");
+  }
